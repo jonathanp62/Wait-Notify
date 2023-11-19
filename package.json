@@ -1,0 +1,23 @@
+{
+  "name": "wait-notify",
+  "version": "1.0.0",
+  "description": "A wait/notify demonstration program",
+  "keywords": [
+    "node",
+    "learning",
+    "promises",
+    "wait",
+    "notify",
+    "application"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "main": "src/index.mjs",
+  "bin": {
+    "run": "./src/index.mjs"
+  },
+  "author": "Jonathan Parker",
+  "license": "ISC",
+  "type": "module"
+}
