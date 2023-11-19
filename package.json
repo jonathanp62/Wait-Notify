@@ -19,5 +19,8 @@
   },
   "author": "Jonathan Parker",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "await-notify": "^1.0.1"
+  }
 }
